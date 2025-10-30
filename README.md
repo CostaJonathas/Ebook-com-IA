@@ -1,5 +1,8 @@
 # ⚓ Varsis RPG — Crie Seu Próprio Mundo de Aventuras
 
+> > 🚀 **Projeto desenvolvido para o curso da DIO (Digital Innovation One)**  
+> Módulo: *Criando um eBook com Inteligência Artificial (IA)*  
+> Este repositório é o resultado prático do projeto proposto no curso — utilizando IA para escrever, estruturar e formatar um eBook completo sobre um sistema original de RPG de mesa.
 > Um sistema de RPG de mesa original, inspirado no espírito livre de *Piratas do Caribe* —  
 > mas adaptável a qualquer universo. Regras simples, progressão épica e foco em diversão e narrativa.
 
